@@ -4,3 +4,18 @@
 * git add - Tells git to track files in the repo
 * git commit - A snapshot of the project at a specific time that can be referred back to or used to revert changes.
 * git push origin master - Sends the commits made up to the remote master branch (github in this case)
+
+**bold**
+*Italics*
+An inline code looks like `this`
+```
+Otherwise you get a block of
+code like this
+```
+Also
+    4 spaces also makes
+    a block of code
+Finally, a [link](http://www.google.com)
+
+pics or this didn't happen- 
+![proof](screenshot.png)
