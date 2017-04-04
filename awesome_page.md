@@ -19,6 +19,6 @@ Also
 Finally, a [link](http://www.google.com)
 
 pics or this didn't happen- 
-![proof](screenshot.png)
+![proof](screenshot.png)josh's merge conflict
 
 new change in master
